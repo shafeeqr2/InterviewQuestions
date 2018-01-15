@@ -24,10 +24,11 @@ public class sumOfDigits
     return num;
   }
 
-  
+  //Main funciton
   public static void main(String[] args)
   {
-
+	
+    //Test with 12345
     int num = 12345;
     System.out.println(getSingleDigit(num));
 
