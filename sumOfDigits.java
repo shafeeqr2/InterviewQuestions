@@ -29,6 +29,7 @@ public class sumOfDigits
   {
 	
     //Test with 12345
+
     int num = 12345;
     System.out.println(getSingleDigit(num));
 
