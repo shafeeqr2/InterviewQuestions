@@ -4,6 +4,7 @@ public class sumOfDigits
 {
  
   //add all digits
+
   public static int sum (int num) {
     int result = 0;
     while (num > 0) {
